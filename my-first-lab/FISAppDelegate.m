@@ -9,9 +9,9 @@
 // Remove two slashes from line 25.
 // Press Command-U to run the tests!
 // /////////////////////////////////////////////////////
-- (NSString *)didItWork
-{
-    //   return nil;
+
+-(NSString *)didItWork{
+//   return nil;
     return @"YES";
 }
 
